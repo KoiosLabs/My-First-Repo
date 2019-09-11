@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jhunt\\OneDrive - Georgian College\\COMP2084-F19\\My First Repo\\My First Web App\\My First Web App\\My First Web App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jhunt\\OneDrive - Georgian College\\COMP2084-F19\\My First Repo\\My First Web App\\My First Web App\\My First Web App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhunt\\OneDrive - Georgian College\\COMP2084-F19\\My First Repo\\My First Web App\\My First Web App\\My First Web App.csproj",
+        "projectName": "My First Web App",
+        "projectPath": "C:\\Users\\jhunt\\OneDrive - Georgian College\\COMP2084-F19\\My First Repo\\My First Web App\\My First Web App\\My First Web App.csproj",
+        "packagesPath": "C:\\Users\\jhunt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhunt\\OneDrive - Georgian College\\COMP2084-F19\\My First Repo\\My First Web App\\My First Web App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jhunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
